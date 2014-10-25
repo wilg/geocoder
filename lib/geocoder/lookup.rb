@@ -52,6 +52,7 @@ module Geocoder
       [
         :baidu_ip,
         :freegeoip,
+        :ip_api,
         :maxmind,
         :maxmind_local,
         :telize,
